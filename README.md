@@ -1,1 +1,3 @@
-# AI-DigitalTwin-Mixed-VR-Sports-_
+# AI, Digital Twin, Mixed and Virtual Reality for Sports
+
+
